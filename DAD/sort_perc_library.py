@@ -7,7 +7,6 @@ def CalculatePercentage(marks_obtained, total_marks):
 
 # CalculatePercentage(30, 100)
 
-
 def SortNames(names, order = "ascending"):
 
     if order == "ascending":
